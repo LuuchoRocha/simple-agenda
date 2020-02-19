@@ -1,0 +1,16 @@
+{
+  "name": "simple-agenda",
+  "version": "1.0.1",
+  "description": "A component that shows different events in a agenda style view.",
+  "main": "index.js",
+  "keywords": ["calendar", "agenda", "events"],
+  "author": "Luciano Rocha <rocha.lucho@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.60.5",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-render-html": "^4.1.2",
+    "moment": "^2.24.0"
+  }
+}
